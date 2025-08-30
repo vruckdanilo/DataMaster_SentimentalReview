@@ -227,6 +227,8 @@ curl http://localhost:9000/minio/health/live  # MinIO
 - [x] **Análise de risco reputacional** baseada em keywords
 - [x] **Dashboards interativos** com Apache Superset
 
+
+
 ## 🚀 Serviços do Projeto
 
 | Serviço              | Função Principal                                    |
@@ -393,6 +395,43 @@ Eu queria criar algo que demonstrasse expertise real, não apenas um "hello worl
 - Implementaria observabilidade desde o dia 1 (Prometheus + Grafana)
 - Usaria Terraform para infraestrutura como código
 - Adicionaria CI/CD com GitHub Actions
+
+---
+
+## Evidencias Screenshots
+
+### Superset
+![Superset 1](docs/images_docs/Superset1.png)
+
+![Superset 2](docs/images_docs/superset2.png)
+
+![Superset 3](docs/images_docs/superset3.png)
+
+### Airflow
+![Airflow 1](docs/images_docs/airflow1.png)
+
+![Airflow 2](docs/images_docs/airflow2.png)
+
+![Airflow 3](docs/images_docs/airflow3.png)
+
+![Airflow 4](docs/images_docs/airflow4.png)
+
+### MinIO
+![MinIO 1](docs/images_docs/minio1.png)
+
+![MinIO 2](docs/images_docs/minio2.png)
+
+![MinIO 3](docs/images_docs/minio3.png)
+
+### Spark
+![Spark 1](docs/images_docs/spark1.png)
+
+![Spark 2](docs/images_docs/spark2.png)
+
+### Trino
+![Trino 1](docs/images_docs/trino1.png) 
+
+
 
 ---
 
