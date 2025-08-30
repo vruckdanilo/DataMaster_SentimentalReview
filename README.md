@@ -74,52 +74,7 @@ cp .env.example .env
 
 </div>
 
-### Diagrama Geral (Mermaid)
-```mermaid
-graph TB
-    subgraph "Fontes de Dados"
-        GM[Google Maps API Mock]
-        KF[Apache Kafka]
-    end
-    
-    subgraph "Data Lakehouse (Arquitetura Medalhão)"
-        L[Landing Zone<br/>JSON Raw]
-        B[Bronze Layer<br/>Delta Tables]
-        S[Silver Layer<br/>Enriquecido + NLP]
-        G[Gold Layer<br/>Agregações]
-    end
-    
-    subgraph "Processamento"
-        AF[Apache Airflow<br/>Orquestração]
-        SP[Apache Spark<br/>Distribuído]
-        TR[Apache Trino<br/>Query Engine]
-    end
-    
-    subgraph "Armazenamento"
-        MN[MinIO S3<br/>Object Storage]
-        MS[MySQL<br/>Hive Metastore]
-        PG[PostgreSQL<br/>Airflow Meta]
-    end
-    
-    subgraph "Visualização"
-        SS[Apache Superset<br/>BI & Dashboards]
-    end
-    
-    GM --> KF
-    KF --> AF
-    AF --> SP
-    SP --> L
-    L --> B
-    B --> S
-    S --> G
-    MN --> TR
-    TR --> SS
-    
-    style L fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#bbf,stroke:#333,stroke-width:2px
-    style S fill:#bfb,stroke:#333,stroke-width:2px
-    style G fill:#ffb,stroke:#333,stroke-width:2px
-```
+
 
 ### Diagrama ASCII (Fallback)
 ```
