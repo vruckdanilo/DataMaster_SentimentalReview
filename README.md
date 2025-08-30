@@ -229,11 +229,7 @@ curl http://localhost:9000/minio/health/live  # MinIO
 
 ### 🏆 Diferenciais Técnicos
 
-<<<<<<< HEAD
-![Achievement Unlocked](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhiYnpnbHd5bnlnbmU2Z2loNmh4eW82ZWh3bDlwdmNqdWR6NnJtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OJac5MRF6xJpqQAcR5/giphy.gif)
-=======
 ![Achievement Unlocked](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhiYnpnbHd5bnlnbmU2Z2loNmh4eW82ZWh3bDlwdmNqdWR6NnJtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gX8F8kMRTx44M/giphy.gif)
->>>>>>> a0c12bfd9ad737151314e60c90b4cf193659fa69
 
 
 
