@@ -226,7 +226,9 @@ curl http://localhost:9000/minio/health/live  # MinIO
 
 ### 🏆 Diferenciais Técnicos
 
-![Achievement Unlocked](https://media.giphy.com/media/3o6fJ1BM7R2EBRDnxK/giphy.gif)
+![Achievement Unlocked](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhiYnpnbHd5bnlnbmU2Z2loNmh4eW82ZWh3bDlwdmNqdWR6NnJtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gX8F8kMRTx44M/giphy.gif)
+
+
 
 1. **Zero Custo:** Emula AWS/GCP/Azure inteiramente local
 2. **Produção-Ready:** Configurações enterprise com fallbacks
@@ -296,7 +298,7 @@ SPARK_EXECUTOR_MEMORY=256m
 
 <div align="center">
 
-![Future Vision](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5zZDVnM3lqZzEzd2F3eTRxcDZyMTQzeDM0Yjk4b3U0YmJ1bG5uYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rBA9YKPPA4v7DXPdvg/giphy.gif)
+![Future Vision](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM0cXFycTgwOWRpc25laWp2ZmlkOHdxOTg3MDczZnM3d3BqNXc1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OJac5MRF6xJpqQAcR5/giphy.gif)
 
 *Visão de Futuro do Projeto*
 
