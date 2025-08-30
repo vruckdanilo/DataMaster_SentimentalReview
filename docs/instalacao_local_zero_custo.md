@@ -32,7 +32,7 @@ Este guia te leva do zero ao ambiente completo funcionando em menos de 10 minuto
 | **RAM** | 8GB | 16GB | Spark é memory-intensive |
 | **CPU** | 4 cores | 8 cores | Processamento paralelo |
 | **Disco** | 20GB livre | 50GB livre | Imagens Docker + dados |
-| **Rede** | Banda larga | Fibra | Download de imagens (~5GB) |
+
 
 ### Software Obrigatório
 
@@ -624,5 +624,3 @@ clean_logs() {
 **Erro que já cometi aqui:** Tentar acessar serviços antes dos health checks passarem. Paciência é fundamental na primeira inicialização!
 
 ---
-
-*Guia de instalação por [Danilo Vruck](mailto:danilo.vruck@email.com)*
