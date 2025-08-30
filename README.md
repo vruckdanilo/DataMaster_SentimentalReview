@@ -222,8 +222,8 @@ curl http://localhost:9000/minio/health/live  # MinIO
 - [x] **Configuração via .env** para diferentes ambientes
 
 **Análise Avançada:**
-- [x] **NLP em português brasileiro** 
-- [x] **Detecção de PII** com anonimização automática
+- [x] **NLP baseado em dicionários** otimizados para português brasileiro
+- [x] **Detecção de PII** com regex patterns brasileiros (CPF, telefone)
 - [x] **Análise de risco reputacional** baseada em keywords
 - [x] **Dashboards interativos** com Apache Superset
 
