@@ -1,0 +1,2947 @@
+{
+  "textsearch": {
+    "results": [
+      {
+        "place_id": "6960ace71e8904ee3f7a256d60ac18f7",
+        "name": "Banco Santander - Agencia dos",
+        "formatted_address": "Rua dos Pinheiros, 1000 - Pinheiros, Sao Paulo - SP",
+        "rating": 3.4,
+        "user_ratings_total": 5,
+        "geometry": {
+          "location": {
+            "lat": -23.5614,
+            "lng": -46.701
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "4b67e15c20f6836cc20d255382932a1f",
+        "name": "Banco Santander - Agencia Fradique",
+        "formatted_address": "Rua Fradique Coutinho, 1010 - Vila Madalena, Sao Paulo - SP",
+        "rating": 3.2,
+        "user_ratings_total": 4,
+        "geometry": {
+          "location": {
+            "lat": -23.5587,
+            "lng": -46.6919
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "578cedd44e0405d096ed5d1e1279db77",
+        "name": "Banco Santander - Agencia Augusta",
+        "formatted_address": "Rua Augusta, 1020 - Consolacao, Sao Paulo - SP",
+        "rating": 2.8,
+        "user_ratings_total": 4,
+        "geometry": {
+          "location": {
+            "lat": -23.5531,
+            "lng": -46.6586
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "dad7e0cbae416c7591c463522d9235fd",
+        "name": "Banco Santander - Agencia Faria",
+        "formatted_address": "Av. Faria Lima, 1030 - Itaim Bibi, Sao Paulo - SP",
+        "rating": 3.0,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.5827,
+            "lng": -46.6764
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "596ee214b7bd3d0a8a5283c6c1f808fa",
+        "name": "Banco Santander - Agencia Vergueiro",
+        "formatted_address": "Rua Vergueiro, 1040 - Vila Mariana, Sao Paulo - SP",
+        "rating": 3.7,
+        "user_ratings_total": 3,
+        "geometry": {
+          "location": {
+            "lat": -23.5892,
+            "lng": -46.6345
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "8c36768b343e7f1ae468d592e51c01d3",
+        "name": "Banco Santander - Agencia Paulista",
+        "formatted_address": "Av. Paulista, 1050 - Bela Vista, Sao Paulo - SP",
+        "rating": 4.2,
+        "user_ratings_total": 5,
+        "geometry": {
+          "location": {
+            "lat": -23.5614,
+            "lng": -46.6516
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "e52eff032b3aaac9b19487e02ea516f1",
+        "name": "Banco Santander - Agencia Ibirapuera",
+        "formatted_address": "Av. Ibirapuera, 1060 - Moema, Sao Paulo - SP",
+        "rating": 3.0,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.601,
+            "lng": -46.6656
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "fb9ce537333829a66aad914e42a2700e",
+        "name": "Banco Santander - Agencia Voluntarios",
+        "formatted_address": "Rua Voluntarios da Patria, 1070 - Santana, Sao Paulo - SP",
+        "rating": 3.5,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.4942,
+            "lng": -46.6254
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "6dffd0c6bd12e69b11dc1269fd4c042c",
+        "name": "Banco Santander - Agencia Tuiuti",
+        "formatted_address": "Rua Tuiuti, 1080 - Tatuape, Sao Paulo - SP",
+        "rating": 3.6,
+        "user_ratings_total": 5,
+        "geometry": {
+          "location": {
+            "lat": -23.5407,
+            "lng": -46.5753
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "0a65c3ea132c5580e7662ae1e55e7f8e",
+        "name": "Banco Santander - Agencia Clélia",
+        "formatted_address": "Rua Clélia, 1090 - Lapa, Sao Paulo - SP",
+        "rating": 3.0,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.5255,
+            "lng": -46.6912
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "02ff5e8f60e95021df267d878c4cbb95",
+        "name": "Banco Santander - Agencia Galvão",
+        "formatted_address": "Rua Galvão Bueno, 1100 - Liberdade, Sao Paulo - SP",
+        "rating": 3.5,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.5576,
+            "lng": -46.6356
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "c3cdf9aa219ea02b3d32c813df8dadd9",
+        "name": "Banco Santander - Agencia Domingos",
+        "formatted_address": "Rua Domingos de Morais, 1110 - Saude, Sao Paulo - SP",
+        "rating": 4.5,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.6201,
+            "lng": -46.6363
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "ce3c3965b2e5547aeb3674aaadda7c71",
+        "name": "Banco Santander - Agencia Vital",
+        "formatted_address": "Av. Vital Brasil, 1120 - Butanta, Sao Paulo - SP",
+        "rating": 3.7,
+        "user_ratings_total": 3,
+        "geometry": {
+          "location": {
+            "lat": -23.57,
+            "lng": -46.7118
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "c0d9f309b0ecc14e42253b87c583a826",
+        "name": "Banco Santander - Agencia Vieira",
+        "formatted_address": "Rua Vieira de Morais, 1130 - Campo Belo, Sao Paulo - SP",
+        "rating": 4.5,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.6262,
+            "lng": -46.6663
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "e50fa2e6fb985479436beb41d6b011bd",
+        "name": "Banco Santander - Agencia Joaquim",
+        "formatted_address": "Rua Joaquim Nabuco, 1140 - Brooklin, Sao Paulo - SP",
+        "rating": 4.0,
+        "user_ratings_total": 4,
+        "geometry": {
+          "location": {
+            "lat": -23.6092,
+            "lng": -46.6852
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "ba553b9091bb8deeefc128d88a6cd518",
+        "name": "Banco Santander - Agencia Oscar",
+        "formatted_address": "Rua Oscar Freire, 1150 - Jardins, Sao Paulo - SP",
+        "rating": 3.5,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.5649,
+            "lng": -46.655
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "820488328cf665fa3d36e75b751b5478",
+        "name": "Banco Santander - Agencia Cardoso",
+        "formatted_address": "Rua Cardoso de Almeida, 1160 - Perdizes, Sao Paulo - SP",
+        "rating": 4.3,
+        "user_ratings_total": 3,
+        "geometry": {
+          "location": {
+            "lat": -23.5275,
+            "lng": -46.6793
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "6da45c80e922ac238bbe1951cfcb2274",
+        "name": "Banco Santander - Agencia Tagipuru",
+        "formatted_address": "Rua Tagipuru, 1170 - Barra Funda, Sao Paulo - SP",
+        "rating": 4.2,
+        "user_ratings_total": 4,
+        "geometry": {
+          "location": {
+            "lat": -23.5259,
+            "lng": -46.6687
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "f2c27d80a2f51bebeed37022980fb384",
+        "name": "Banco Santander - Agencia do",
+        "formatted_address": "Rua do Lavapés, 1180 - Cambuci, Sao Paulo - SP",
+        "rating": 3.7,
+        "user_ratings_total": 3,
+        "geometry": {
+          "location": {
+            "lat": -23.5694,
+            "lng": -46.6213
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "6ad50babf4f2cb1ebdc257b51929146a",
+        "name": "Banco Santander - Agencia Muniz",
+        "formatted_address": "Rua Muniz de Souza, 1190 - Aclimacao, Sao Paulo - SP",
+        "rating": 3.0,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.5707,
+            "lng": -46.6274
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "ebbdf6a8a16196da9d8c199cb6311de5",
+        "name": "Banco Santander - Agencia João",
+        "formatted_address": "Rua João Teodoro, 1200 - Brás, Sao Paulo - SP",
+        "rating": 3.8,
+        "user_ratings_total": 5,
+        "geometry": {
+          "location": {
+            "lat": -23.5428,
+            "lng": -46.6169
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "e2186eabc6e0f034882c80e8ba82b636",
+        "name": "Banco Santander - Agencia Jose",
+        "formatted_address": "Av. Jose Bonifacio, 1210 - Vila Prudente, Sao Paulo - SP",
+        "rating": 3.8,
+        "user_ratings_total": 5,
+        "geometry": {
+          "location": {
+            "lat": -23.5854,
+            "lng": -46.579
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "da2db2506eed8023d6443e42540566ed",
+        "name": "Banco Santander - Agencia Silva",
+        "formatted_address": "Rua Silva Bueno, 1220 - Ipiranga, Sao Paulo - SP",
+        "rating": 3.7,
+        "user_ratings_total": 3,
+        "geometry": {
+          "location": {
+            "lat": -23.5858,
+            "lng": -46.6102
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "427cae93f08cfbbd1fe213a30c047032",
+        "name": "Banco Santander - Agencia Eng.",
+        "formatted_address": "Av. Eng. Armando de Arruda Pereira, 1230 - Jabaquara, Sao Paulo - SP",
+        "rating": 4.0,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.6635,
+            "lng": -46.6414
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "d057f5147fe9e30c95e706cbc803ae44",
+        "name": "Banco Santander - Agencia Casa",
+        "formatted_address": "Av. Casa Verde, 1240 - Casa Verde, Sao Paulo - SP",
+        "rating": 3.5,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.5058,
+            "lng": -46.6411
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "50329a532d366b5903b6e1a20f6c5e98",
+        "name": "Banco Santander - Agencia Itaberaba",
+        "formatted_address": "Av. Itaberaba, 1250 - Freguesia do O, Sao Paulo - SP",
+        "rating": 4.5,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.4818,
+            "lng": -46.6888
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "5b2493079422d5495dbfebe1eb4a9aa9",
+        "name": "Banco Santander - Agencia Mutinga",
+        "formatted_address": "Av. Mutinga, 1260 - Pirituba, Sao Paulo - SP",
+        "rating": 3.5,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.4871,
+            "lng": -46.7357
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "4a70ace8e48165710383b81ae8c7d9b9",
+        "name": "Banco Santander - Agencia Doutor",
+        "formatted_address": "Rua Doutor Luiz Migliano, 1270 - Morumbi, Sao Paulo - SP",
+        "rating": 4.2,
+        "user_ratings_total": 4,
+        "geometry": {
+          "location": {
+            "lat": -23.6094,
+            "lng": -46.7219
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "d6e87e8935ec42f713d84fd613e1e46d",
+        "name": "Banco Santander - Agencia Senador",
+        "formatted_address": "Av. Senador Teotonio Vilela, 1280 - Cidade Dutra, Sao Paulo - SP",
+        "rating": 4.3,
+        "user_ratings_total": 3,
+        "geometry": {
+          "location": {
+            "lat": -23.7097,
+            "lng": -46.6986
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "9e3b01a8aae73073b41d7bfed019af0b",
+        "name": "Banco Santander - Agencia de",
+        "formatted_address": "Estrada de Itapecerica, 1290 - Capao Redondo, Sao Paulo - SP",
+        "rating": 3.8,
+        "user_ratings_total": 5,
+        "geometry": {
+          "location": {
+            "lat": -23.645,
+            "lng": -46.7694
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "f661ef8449e826dbd9978b3e4df51dc8",
+        "name": "Banco Santander - Agencia Adolfo",
+        "formatted_address": "Av. Adolfo Pinheiro, 1300 - Santo Amaro, Sao Paulo - SP",
+        "rating": 3.2,
+        "user_ratings_total": 5,
+        "geometry": {
+          "location": {
+            "lat": -23.6505,
+            "lng": -46.7144
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "44f1a3a6e2b625fd59395ccd9b7e78ae",
+        "name": "Banco Santander - Agencia Maria",
+        "formatted_address": "Rua Maria Cândida, 1310 - Vila Guilherme, Sao Paulo - SP",
+        "rating": 2.6,
+        "user_ratings_total": 5,
+        "geometry": {
+          "location": {
+            "lat": -23.5111,
+            "lng": -46.6054
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "2f032572750f614dcd6d56d5cf32f1d6",
+        "name": "Banco Santander - Agencia Guilherme",
+        "formatted_address": "Av. Guilherme Cotching, 1320 - Vila Maria, Sao Paulo - SP",
+        "rating": 3.0,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.5028,
+            "lng": -46.5916
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "f3835ab10780feeba37cff9f1c71c363",
+        "name": "Banco Santander - Agencia Carlos",
+        "formatted_address": "Rua Carlos Weber, 1330 - Vila Leopoldina, Sao Paulo - SP",
+        "rating": 2.5,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.5285,
+            "lng": -46.7311
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "f29b65bfb59bb48ca942b651a241e558",
+        "name": "Banco Santander - Agencia Jaguaré",
+        "formatted_address": "Av. Jaguaré, 1340 - Jaguaré, Sao Paulo - SP",
+        "rating": 2.8,
+        "user_ratings_total": 4,
+        "geometry": {
+          "location": {
+            "lat": -23.5533,
+            "lng": -46.736
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "2c1f24ea1c8374b0e5847fab327191ad",
+        "name": "Banco Santander - Agencia Nova",
+        "formatted_address": "Av. Nova Cantareira, 1350 - Tremembé, Sao Paulo - SP",
+        "rating": 3.0,
+        "user_ratings_total": 5,
+        "geometry": {
+          "location": {
+            "lat": -23.456,
+            "lng": -46.6245
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "3412236281be6fedf2dbf0c248701be3",
+        "name": "Banco Santander - Agencia Charles",
+        "formatted_address": "Rua Charles Spencer Chaplin, 1360 - Vila Andrade, Sao Paulo - SP",
+        "rating": 2.8,
+        "user_ratings_total": 4,
+        "geometry": {
+          "location": {
+            "lat": -23.6264,
+            "lng": -46.735
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "cda0236e616c248b1cd64c2af989bda1",
+        "name": "Banco Santander - Agencia Nossa",
+        "formatted_address": "Av. Nossa Senhora do Sabara, 1370 - Pedreira, Sao Paulo - SP",
+        "rating": 4.0,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.6745,
+            "lng": -46.6782
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "6a339e085c56a5c22c47459bbc89700c",
+        "name": "Banco Santander - Agencia Santos",
+        "formatted_address": "Alameda Santos, 1380 - Jardim Paulista, Sao Paulo - SP",
+        "rating": 4.0,
+        "user_ratings_total": 4,
+        "geometry": {
+          "location": {
+            "lat": -23.5692,
+            "lng": -46.6541
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "731d17cde72b6b0827e5a563543c5cb9",
+        "name": "Banco Santander - Agencia do",
+        "formatted_address": "Estrada do Campo Limpo, 1390 - Campo Limpo, Sao Paulo - SP",
+        "rating": 3.0,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.6375,
+            "lng": -46.7571
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "2494e2c99d36ceb6bfc73f6f70c15db9",
+        "name": "Banco Santander - Agencia Guarapiranga",
+        "formatted_address": "Av. Guarapiranga, 1400 - Jardim Sao Luis, Sao Paulo - SP",
+        "rating": 3.6,
+        "user_ratings_total": 5,
+        "geometry": {
+          "location": {
+            "lat": -23.6583,
+            "lng": -46.7355
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "89cdc23be237e5129c1939e527e773e8",
+        "name": "Banco Santander - Agencia Cupecê",
+        "formatted_address": "Av. Cupecê, 1410 - Cidade Ademar, Sao Paulo - SP",
+        "rating": 4.5,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.6708,
+            "lng": -46.6758
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "3c9393887576819c95ebb8af28a0972f",
+        "name": "Banco Santander - Agencia Sapopemba",
+        "formatted_address": "Av. Sapopemba, 1420 - Sapopemba, Sao Paulo - SP",
+        "rating": 3.5,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.5694,
+            "lng": -46.5062
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "2dd51bd815a0382d8c881fd9dea5b6c6",
+        "name": "Banco Santander - Agencia Aricanduva",
+        "formatted_address": "Av. Aricanduva, 1430 - Aricanduva, Sao Paulo - SP",
+        "rating": 4.0,
+        "user_ratings_total": 5,
+        "geometry": {
+          "location": {
+            "lat": -23.553,
+            "lng": -46.5232
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "693b7a8f64cb8d55679b3d96231e972d",
+        "name": "Banco Santander - Agencia Ragueb",
+        "formatted_address": "Av. Ragueb Chohfi, 1440 - São Mateus, Sao Paulo - SP",
+        "rating": 4.5,
+        "user_ratings_total": 4,
+        "geometry": {
+          "location": {
+            "lat": -23.5867,
+            "lng": -46.4564
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "bd62838dc4d6be47f3bede130df3932c",
+        "name": "Banco Santander - Agencia Águia",
+        "formatted_address": "Av. Águia de Haia, 1450 - Artur Alvim, Sao Paulo - SP",
+        "rating": 3.4,
+        "user_ratings_total": 5,
+        "geometry": {
+          "location": {
+            "lat": -23.5368,
+            "lng": -46.473
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "175c78d0df8c481dde5796239535e71c",
+        "name": "Banco Santander - Agencia João",
+        "formatted_address": "Av. João XXIII, 1460 - Vila Formosa, Sao Paulo - SP",
+        "rating": 3.5,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.5592,
+            "lng": -46.5671
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "232e1ce7553a9a02fd7b0530d363f411",
+        "name": "Banco Santander - Agencia Evangelina",
+        "formatted_address": "Rua Evangelina, 1470 - Vila Carrão, Sao Paulo - SP",
+        "rating": 1.5,
+        "user_ratings_total": 2,
+        "geometry": {
+          "location": {
+            "lat": -23.5445,
+            "lng": -46.5504
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "48583e52533c8986545c334b466afdca",
+        "name": "Banco Santander - Agencia Salvador",
+        "formatted_address": "Rua Salvador Gianetti, 1480 - Guaianases, Sao Paulo - SP",
+        "rating": 3.0,
+        "user_ratings_total": 5,
+        "geometry": {
+          "location": {
+            "lat": -23.5548,
+            "lng": -46.4173
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      },
+      {
+        "place_id": "3dfbe48ac86449c4e6bcb450d5c499d1",
+        "name": "Banco Santander - Agencia Itaquera",
+        "formatted_address": "Av. Itaquera, 1490 - Itaquera, Sao Paulo - SP",
+        "rating": 4.0,
+        "user_ratings_total": 4,
+        "geometry": {
+          "location": {
+            "lat": -23.5446,
+            "lng": -46.4634
+          }
+        },
+        "types": [
+          "bank",
+          "establishment"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "place_details_6960ace71e8904ee3f7a256d60ac18f7": {
+    "result": {
+      "place_id": "6960ace71e8904ee3f7a256d60ac18f7",
+      "name": "Banco Santander - Agencia dos",
+      "formatted_address": "Rua dos Pinheiros, 1000 - Pinheiros, Sao Paulo - SP",
+      "rating": 3.4,
+      "user_ratings_total": 5,
+      "geometry": {
+        "location": {
+          "lat": -23.5614,
+          "lng": -46.701
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Fernanda Dias",
+          "rating": 3,
+          "text": "Péssimo atendimento, muita demora.",
+          "time": 1751839758
+        },
+        {
+          "author_name": "Paula Freitas",
+          "rating": 5,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1735164558
+        },
+        {
+          "author_name": "Natalia Martins",
+          "rating": 5,
+          "text": "Equipe muito prestativa e local bem organizado.",
+          "time": 1746655758
+        },
+        {
+          "author_name": "Natalia Martins",
+          "rating": 2,
+          "text": "Péssimo atendimento, muita demora. Meu CPF 405.849.488-51",
+          "time": 1736546958
+        },
+        {
+          "author_name": "Juliana Costa",
+          "rating": 2,
+          "text": "Fila enorme e pouca eficiência.",
+          "time": 1738274958
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_4b67e15c20f6836cc20d255382932a1f": {
+    "result": {
+      "place_id": "4b67e15c20f6836cc20d255382932a1f",
+      "name": "Banco Santander - Agencia Fradique",
+      "formatted_address": "Rua Fradique Coutinho, 1010 - Vila Madalena, Sao Paulo - SP",
+      "rating": 3.2,
+      "user_ratings_total": 4,
+      "geometry": {
+        "location": {
+          "lat": -23.5587,
+          "lng": -46.6919
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Marina Alves",
+          "rating": 3,
+          "text": "Péssimo atendimento, muita demora.",
+          "time": 1726006158
+        },
+        {
+          "author_name": "Camila Azevedo",
+          "rating": 4,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1745100558
+        },
+        {
+          "author_name": "Leonardo Pires",
+          "rating": 1,
+          "text": "Fila enorme e pouca eficiência. Meu CPF 405.849.488-51",
+          "time": 1743977358
+        },
+        {
+          "author_name": "Fernanda Dias",
+          "rating": 5,
+          "text": "Equipe muito prestativa e local bem organizado.",
+          "time": 1726697358
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_578cedd44e0405d096ed5d1e1279db77": {
+    "result": {
+      "place_id": "578cedd44e0405d096ed5d1e1279db77",
+      "name": "Banco Santander - Agencia Augusta",
+      "formatted_address": "Rua Augusta, 1020 - Consolacao, Sao Paulo - SP",
+      "rating": 2.8,
+      "user_ratings_total": 4,
+      "geometry": {
+        "location": {
+          "lat": -23.5531,
+          "lng": -46.6586
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Igor Carvalho",
+          "rating": 1,
+          "text": "Sistema fora do ar e sem explicações.",
+          "time": 1733263758
+        },
+        {
+          "author_name": "Felipe Gomes",
+          "rating": 4,
+          "text": "Equipe muito prestativa e local bem organizado.",
+          "time": 1751321358
+        },
+        {
+          "author_name": "Leonardo Pires",
+          "rating": 1,
+          "text": "Fila enorme e pouca eficiência. Meu CPF 405.849.488-51",
+          "time": 1723673358
+        },
+        {
+          "author_name": "Natalia Martins",
+          "rating": 5,
+          "text": "Equipe muito prestativa e local bem organizado.",
+          "time": 1726092558
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_dad7e0cbae416c7591c463522d9235fd": {
+    "result": {
+      "place_id": "dad7e0cbae416c7591c463522d9235fd",
+      "name": "Banco Santander - Agencia Faria",
+      "formatted_address": "Av. Faria Lima, 1030 - Itaim Bibi, Sao Paulo - SP",
+      "rating": 3.0,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.5827,
+          "lng": -46.6764
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Ricardo Lopes",
+          "rating": 2,
+          "text": "Sistema fora do ar e sem explicações. Meu CPF 405.849.488-51",
+          "time": 1739657358
+        },
+        {
+          "author_name": "Marina Alves",
+          "rating": 4,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1733954958
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_596ee214b7bd3d0a8a5283c6c1f808fa": {
+    "result": {
+      "place_id": "596ee214b7bd3d0a8a5283c6c1f808fa",
+      "name": "Banco Santander - Agencia Vergueiro",
+      "formatted_address": "Rua Vergueiro, 1040 - Vila Mariana, Sao Paulo - SP",
+      "rating": 3.7,
+      "user_ratings_total": 3,
+      "geometry": {
+        "location": {
+          "lat": -23.5892,
+          "lng": -46.6345
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Bruno Rocha",
+          "rating": 5,
+          "text": "Equipe muito prestativa e local bem organizado.",
+          "time": 1745446158
+        },
+        {
+          "author_name": "Daniel Farias",
+          "rating": 2,
+          "text": "Fila enorme e pouca eficiência. Meu CPF 405.849.488-51",
+          "time": 1732918158
+        },
+        {
+          "author_name": "Eduarda Ramos",
+          "rating": 4,
+          "text": "Fui bem atendido, recomendo.",
+          "time": 1740694158
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_8c36768b343e7f1ae468d592e51c01d3": {
+    "result": {
+      "place_id": "8c36768b343e7f1ae468d592e51c01d3",
+      "name": "Banco Santander - Agencia Paulista",
+      "formatted_address": "Av. Paulista, 1050 - Bela Vista, Sao Paulo - SP",
+      "rating": 4.2,
+      "user_ratings_total": 5,
+      "geometry": {
+        "location": {
+          "lat": -23.5614,
+          "lng": -46.6516
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Paula Freitas",
+          "rating": 5,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1728770958
+        },
+        {
+          "author_name": "Renata Lima",
+          "rating": 5,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1748038158
+        },
+        {
+          "author_name": "Bruno Rocha",
+          "rating": 2,
+          "text": "Sistema fora do ar e sem explicações. Meu CPF 405.849.488-51",
+          "time": 1738274958
+        },
+        {
+          "author_name": "Fernanda Dias",
+          "rating": 4,
+          "text": "Fui bem atendido, recomendo.",
+          "time": 1738361358
+        },
+        {
+          "author_name": "Thiago Souza",
+          "rating": 5,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1727388558
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_e52eff032b3aaac9b19487e02ea516f1": {
+    "result": {
+      "place_id": "e52eff032b3aaac9b19487e02ea516f1",
+      "name": "Banco Santander - Agencia Ibirapuera",
+      "formatted_address": "Av. Ibirapuera, 1060 - Moema, Sao Paulo - SP",
+      "rating": 3.0,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.601,
+          "lng": -46.6656
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Leonardo Pires",
+          "rating": 1,
+          "text": "Não recomendo esta agência. Meu CPF 405.849.488-51",
+          "time": 1749506958
+        },
+        {
+          "author_name": "Renata Lima",
+          "rating": 5,
+          "text": "Equipe muito prestativa e local bem organizado.",
+          "time": 1741212558
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_fb9ce537333829a66aad914e42a2700e": {
+    "result": {
+      "place_id": "fb9ce537333829a66aad914e42a2700e",
+      "name": "Banco Santander - Agencia Voluntarios",
+      "formatted_address": "Rua Voluntarios da Patria, 1070 - Santana, Sao Paulo - SP",
+      "rating": 3.5,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.4942,
+          "lng": -46.6254
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Igor Carvalho",
+          "rating": 5,
+          "text": "Fui bem atendido, recomendo. Meu CPF 405.849.488-51",
+          "time": 1749247758
+        },
+        {
+          "author_name": "Renata Lima",
+          "rating": 2,
+          "text": "Atendentes despreparados e confusos.",
+          "time": 1752790158
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_6dffd0c6bd12e69b11dc1269fd4c042c": {
+    "result": {
+      "place_id": "6dffd0c6bd12e69b11dc1269fd4c042c",
+      "name": "Banco Santander - Agencia Tuiuti",
+      "formatted_address": "Rua Tuiuti, 1080 - Tatuape, Sao Paulo - SP",
+      "rating": 3.6,
+      "user_ratings_total": 5,
+      "geometry": {
+        "location": {
+          "lat": -23.5407,
+          "lng": -46.5753
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Renata Lima",
+          "rating": 1,
+          "text": "Fila enorme e pouca eficiência.",
+          "time": 1742767758
+        },
+        {
+          "author_name": "Paula Freitas",
+          "rating": 5,
+          "text": "Equipe muito prestativa e local bem organizado.",
+          "time": 1751580558
+        },
+        {
+          "author_name": "Natalia Martins",
+          "rating": 4,
+          "text": "Serviço ágil e funcionários educados. Meu CPF 405.849.488-51",
+          "time": 1731276558
+        },
+        {
+          "author_name": "Leonardo Pires",
+          "rating": 4,
+          "text": "Fui bem atendido, recomendo.",
+          "time": 1718316558
+        },
+        {
+          "author_name": "Paula Freitas",
+          "rating": 4,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1728770958
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_0a65c3ea132c5580e7662ae1e55e7f8e": {
+    "result": {
+      "place_id": "0a65c3ea132c5580e7662ae1e55e7f8e",
+      "name": "Banco Santander - Agencia Clélia",
+      "formatted_address": "Rua Clélia, 1090 - Lapa, Sao Paulo - SP",
+      "rating": 3.0,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.5255,
+          "lng": -46.6912
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Camila Azevedo",
+          "rating": 2,
+          "text": "Sistema fora do ar e sem explicações.",
+          "time": 1740521358
+        },
+        {
+          "author_name": "Marina Alves",
+          "rating": 4,
+          "text": "Ambiente limpo e confortável. Meu CPF 405.849.488-51",
+          "time": 1721858958
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_02ff5e8f60e95021df267d878c4cbb95": {
+    "result": {
+      "place_id": "02ff5e8f60e95021df267d878c4cbb95",
+      "name": "Banco Santander - Agencia Galvão",
+      "formatted_address": "Rua Galvão Bueno, 1100 - Liberdade, Sao Paulo - SP",
+      "rating": 3.5,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.5576,
+          "lng": -46.6356
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Juliana Costa",
+          "rating": 5,
+          "text": "Equipe muito prestativa e local bem organizado. Meu CPF 405.849.488-51",
+          "time": 1724882958
+        },
+        {
+          "author_name": "Paula Freitas",
+          "rating": 2,
+          "text": "Atendentes despreparados e confusos.",
+          "time": 1732054158
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_c3cdf9aa219ea02b3d32c813df8dadd9": {
+    "result": {
+      "place_id": "c3cdf9aa219ea02b3d32c813df8dadd9",
+      "name": "Banco Santander - Agencia Domingos",
+      "formatted_address": "Rua Domingos de Morais, 1110 - Saude, Sao Paulo - SP",
+      "rating": 4.5,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.6201,
+          "lng": -46.6363
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Thiago Souza",
+          "rating": 5,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1733004558
+        },
+        {
+          "author_name": "Paula Freitas",
+          "rating": 4,
+          "text": "Fui bem atendido, recomendo. Meu CPF 405.849.488-51",
+          "time": 1746310158
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_ce3c3965b2e5547aeb3674aaadda7c71": {
+    "result": {
+      "place_id": "ce3c3965b2e5547aeb3674aaadda7c71",
+      "name": "Banco Santander - Agencia Vital",
+      "formatted_address": "Av. Vital Brasil, 1120 - Butanta, Sao Paulo - SP",
+      "rating": 3.7,
+      "user_ratings_total": 3,
+      "geometry": {
+        "location": {
+          "lat": -23.57,
+          "lng": -46.7118
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Thiago Souza",
+          "rating": 4,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1728425358
+        },
+        {
+          "author_name": "Bruno Rocha",
+          "rating": 3,
+          "text": "Sistema fora do ar e sem explicações. Meu CPF 405.849.488-51",
+          "time": 1721945358
+        },
+        {
+          "author_name": "Daniel Farias",
+          "rating": 4,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1743890958
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_c0d9f309b0ecc14e42253b87c583a826": {
+    "result": {
+      "place_id": "c0d9f309b0ecc14e42253b87c583a826",
+      "name": "Banco Santander - Agencia Vieira",
+      "formatted_address": "Rua Vieira de Morais, 1130 - Campo Belo, Sao Paulo - SP",
+      "rating": 4.5,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.6262,
+          "lng": -46.6663
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Juliana Costa",
+          "rating": 4,
+          "text": "Fui bem atendido, recomendo.",
+          "time": 1719698958
+        },
+        {
+          "author_name": "Camila Azevedo",
+          "rating": 5,
+          "text": "Equipe muito prestativa e local bem organizado. Meu CPF 405.849.488-51",
+          "time": 1745186958
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_e50fa2e6fb985479436beb41d6b011bd": {
+    "result": {
+      "place_id": "e50fa2e6fb985479436beb41d6b011bd",
+      "name": "Banco Santander - Agencia Joaquim",
+      "formatted_address": "Rua Joaquim Nabuco, 1140 - Brooklin, Sao Paulo - SP",
+      "rating": 4.0,
+      "user_ratings_total": 4,
+      "geometry": {
+        "location": {
+          "lat": -23.6092,
+          "lng": -46.6852
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Renata Lima",
+          "rating": 4,
+          "text": "Atendimento excelente!",
+          "time": 1729807758
+        },
+        {
+          "author_name": "Daniel Farias",
+          "rating": 4,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1734818958
+        },
+        {
+          "author_name": "Daniel Farias",
+          "rating": 4,
+          "text": "Equipe muito prestativa e local bem organizado. Meu CPF 405.849.488-51",
+          "time": 1746482958
+        },
+        {
+          "author_name": "Leonardo Pires",
+          "rating": 4,
+          "text": "Atendimento excelente!",
+          "time": 1748038158
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_ba553b9091bb8deeefc128d88a6cd518": {
+    "result": {
+      "place_id": "ba553b9091bb8deeefc128d88a6cd518",
+      "name": "Banco Santander - Agencia Oscar",
+      "formatted_address": "Rua Oscar Freire, 1150 - Jardins, Sao Paulo - SP",
+      "rating": 3.5,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.5649,
+          "lng": -46.655
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Juliana Costa",
+          "rating": 5,
+          "text": "Fui bem atendido, recomendo.",
+          "time": 1728425358
+        },
+        {
+          "author_name": "Renata Lima",
+          "rating": 2,
+          "text": "Sistema fora do ar e sem explicações. Meu CPF 405.849.488-51",
+          "time": 1722031758
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_820488328cf665fa3d36e75b751b5478": {
+    "result": {
+      "place_id": "820488328cf665fa3d36e75b751b5478",
+      "name": "Banco Santander - Agencia Cardoso",
+      "formatted_address": "Rua Cardoso de Almeida, 1160 - Perdizes, Sao Paulo - SP",
+      "rating": 4.3,
+      "user_ratings_total": 3,
+      "geometry": {
+        "location": {
+          "lat": -23.5275,
+          "lng": -46.6793
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Igor Carvalho",
+          "rating": 5,
+          "text": "Fui bem atendido, recomendo.",
+          "time": 1749766158
+        },
+        {
+          "author_name": "Fernanda Dias",
+          "rating": 5,
+          "text": "Equipe muito prestativa e local bem organizado.Meu CPF 405.849.488-51",
+          "time": 1728166158
+        },
+        {
+          "author_name": "Camila Azevedo",
+          "rating": 3,
+          "text": "Atendentes despreparados e confusos.",
+          "time": 1737151758
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_6da45c80e922ac238bbe1951cfcb2274": {
+    "result": {
+      "place_id": "6da45c80e922ac238bbe1951cfcb2274",
+      "name": "Banco Santander - Agencia Tagipuru",
+      "formatted_address": "Rua Tagipuru, 1170 - Barra Funda, Sao Paulo - SP",
+      "rating": 4.2,
+      "user_ratings_total": 4,
+      "geometry": {
+        "location": {
+          "lat": -23.5259,
+          "lng": -46.6687
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Leonardo Pires",
+          "rating": 5,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1718662158
+        },
+        {
+          "author_name": "Daniel Farias",
+          "rating": 4,
+          "text": "Ambiente limpo e confortável.Meu CPF 405.849.488-51",
+          "time": 1722809358
+        },
+        {
+          "author_name": "Felipe Gomes",
+          "rating": 4,
+          "text": "Atendimento excelente!",
+          "time": 1749161358
+        },
+        {
+          "author_name": "Thiago Souza",
+          "rating": 4,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1722204558
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_f2c27d80a2f51bebeed37022980fb384": {
+    "result": {
+      "place_id": "f2c27d80a2f51bebeed37022980fb384",
+      "name": "Banco Santander - Agencia do",
+      "formatted_address": "Rua do Lavapés, 1180 - Cambuci, Sao Paulo - SP",
+      "rating": 3.7,
+      "user_ratings_total": 3,
+      "geometry": {
+        "location": {
+          "lat": -23.5694,
+          "lng": -46.6213
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Natalia Martins",
+          "rating": 2,
+          "text": "Atendentes despreparados e confusos.Meu CPF 405.849.488-51",
+          "time": 1741730958
+        },
+        {
+          "author_name": "Fernanda Dias",
+          "rating": 4,
+          "text": "Equipe muito prestativa e local bem organizado.",
+          "time": 1745014158
+        },
+        {
+          "author_name": "Leonardo Pires",
+          "rating": 5,
+          "text": "Fui bem atendido, recomendo.",
+          "time": 1728684558
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_6ad50babf4f2cb1ebdc257b51929146a": {
+    "result": {
+      "place_id": "6ad50babf4f2cb1ebdc257b51929146a",
+      "name": "Banco Santander - Agencia Muniz",
+      "formatted_address": "Rua Muniz de Souza, 1190 - Aclimacao, Sao Paulo - SP",
+      "rating": 3.0,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.5707,
+          "lng": -46.6274
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Eduarda Ramos",
+          "rating": 2,
+          "text": "Péssimo atendimento, muita demora.Meu CPF 405.849.488-51",
+          "time": 1730498958
+        },
+        {
+          "author_name": "Igor Carvalho",
+          "rating": 4,
+          "text": "Equipe muito prestativa e local bem organizado.",
+          "time": 1730498958
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_ebbdf6a8a16196da9d8c199cb6311de5": {
+    "result": {
+      "place_id": "ebbdf6a8a16196da9d8c199cb6311de5",
+      "name": "Banco Santander - Agencia João",
+      "formatted_address": "Rua João Teodoro, 1200 - Brás, Sao Paulo - SP",
+      "rating": 3.8,
+      "user_ratings_total": 5,
+      "geometry": {
+        "location": {
+          "lat": -23.5428,
+          "lng": -46.6169
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Camila Azevedo",
+          "rating": 4,
+          "text": "Atendimento excelente!",
+          "time": 1747433358
+        },
+        {
+          "author_name": "Leonardo Pires",
+          "rating": 3,
+          "text": "Péssimo atendimento, muita demora.Meu CPF 405.849.488-51",
+          "time": 1745791758
+        },
+        {
+          "author_name": "Ricardo Lopes",
+          "rating": 4,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1750025358
+        },
+        {
+          "author_name": "Bruno Rocha",
+          "rating": 4,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1752012558
+        },
+        {
+          "author_name": "Natalia Martins",
+          "rating": 4,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1742854158
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_e2186eabc6e0f034882c80e8ba82b636": {
+    "result": {
+      "place_id": "e2186eabc6e0f034882c80e8ba82b636",
+      "name": "Banco Santander - Agencia Jose",
+      "formatted_address": "Av. Jose Bonifacio, 1210 - Vila Prudente, Sao Paulo - SP",
+      "rating": 3.8,
+      "user_ratings_total": 5,
+      "geometry": {
+        "location": {
+          "lat": -23.5854,
+          "lng": -46.579
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Felipe Gomes",
+          "rating": 2,
+          "text": "Péssimo atendimento, muita demora.",
+          "time": 1721599758
+        },
+        {
+          "author_name": "Thiago Souza",
+          "rating": 5,
+          "text": "Ambiente limpo e confortável.Meu CPF 405.849.488-51",
+          "time": 1724018958
+        },
+        {
+          "author_name": "Thiago Souza",
+          "rating": 4,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1724364558
+        },
+        {
+          "author_name": "Renata Lima",
+          "rating": 5,
+          "text": "Equipe muito prestativa e local bem organizado.",
+          "time": 1734732558
+        },
+        {
+          "author_name": "Eduarda Ramos",
+          "rating": 3,
+          "text": "Atendentes despreparados e confusos.",
+          "time": 1723241358
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_da2db2506eed8023d6443e42540566ed": {
+    "result": {
+      "place_id": "da2db2506eed8023d6443e42540566ed",
+      "name": "Banco Santander - Agencia Silva",
+      "formatted_address": "Rua Silva Bueno, 1220 - Ipiranga, Sao Paulo - SP",
+      "rating": 3.7,
+      "user_ratings_total": 3,
+      "geometry": {
+        "location": {
+          "lat": -23.5858,
+          "lng": -46.6102
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Camila Azevedo",
+          "rating": 4,
+          "text": "Atendimento excelente!",
+          "time": 1738534158
+        },
+        {
+          "author_name": "Ricardo Lopes",
+          "rating": 2,
+          "text": "Péssimo atendimento, muita demora.Meu CPF 405.849.488-51",
+          "time": 1749247758
+        },
+        {
+          "author_name": "Leonardo Pires",
+          "rating": 5,
+          "text": "Atendimento excelente!",
+          "time": 1746396558
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_427cae93f08cfbbd1fe213a30c047032": {
+    "result": {
+      "place_id": "427cae93f08cfbbd1fe213a30c047032",
+      "name": "Banco Santander - Agencia Eng.",
+      "formatted_address": "Av. Eng. Armando de Arruda Pereira, 1230 - Jabaquara, Sao Paulo - SP",
+      "rating": 4.0,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.6635,
+          "lng": -46.6414
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Natalia Martins",
+          "rating": 4,
+          "text": "Serviço ágil e funcionários educados.Meu CPF 405.849.488-51",
+          "time": 1723932558
+        },
+        {
+          "author_name": "Felipe Gomes",
+          "rating": 4,
+          "text": "Atendimento excelente!",
+          "time": 1736892558
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_d057f5147fe9e30c95e706cbc803ae44": {
+    "result": {
+      "place_id": "d057f5147fe9e30c95e706cbc803ae44",
+      "name": "Banco Santander - Agencia Casa",
+      "formatted_address": "Av. Casa Verde, 1240 - Casa Verde, Sao Paulo - SP",
+      "rating": 3.5,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.5058,
+          "lng": -46.6411
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Paula Freitas",
+          "rating": 2,
+          "text": "Sistema fora do ar e sem explicações.Meu CPF 405.849.488-51",
+          "time": 1750716558
+        },
+        {
+          "author_name": "Renata Lima",
+          "rating": 5,
+          "text": "Atendimento excelente!",
+          "time": 1746310158
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_50329a532d366b5903b6e1a20f6c5e98": {
+    "result": {
+      "place_id": "50329a532d366b5903b6e1a20f6c5e98",
+      "name": "Banco Santander - Agencia Itaberaba",
+      "formatted_address": "Av. Itaberaba, 1250 - Freguesia do O, Sao Paulo - SP",
+      "rating": 4.5,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.4818,
+          "lng": -46.6888
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Fernanda Dias",
+          "rating": 5,
+          "text": "Fui bem atendido, recomendo.",
+          "time": 1742076558
+        },
+        {
+          "author_name": "Igor Carvalho",
+          "rating": 4,
+          "text": "Equipe muito prestativa e local bem organizado.Meu CPF 405.849.488-51",
+          "time": 1751321358
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_5b2493079422d5495dbfebe1eb4a9aa9": {
+    "result": {
+      "place_id": "5b2493079422d5495dbfebe1eb4a9aa9",
+      "name": "Banco Santander - Agencia Mutinga",
+      "formatted_address": "Av. Mutinga, 1260 - Pirituba, Sao Paulo - SP",
+      "rating": 3.5,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.4871,
+          "lng": -46.7357
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Marina Alves",
+          "rating": 4,
+          "text": "Ambiente limpo e confortável.Meu CPF 405.849.488-51",
+          "time": 1748470158
+        },
+        {
+          "author_name": "Felipe Gomes",
+          "rating": 3,
+          "text": "Sistema fora do ar e sem explicações.",
+          "time": 1742422158
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_4a70ace8e48165710383b81ae8c7d9b9": {
+    "result": {
+      "place_id": "4a70ace8e48165710383b81ae8c7d9b9",
+      "name": "Banco Santander - Agencia Doutor",
+      "formatted_address": "Rua Doutor Luiz Migliano, 1270 - Morumbi, Sao Paulo - SP",
+      "rating": 4.2,
+      "user_ratings_total": 4,
+      "geometry": {
+        "location": {
+          "lat": -23.6094,
+          "lng": -46.7219
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Ricardo Lopes",
+          "rating": 5,
+          "text": "Equipe muito prestativa e local bem organizado.Meu CPF 405.849.488-51",
+          "time": 1724364558
+        },
+        {
+          "author_name": "Leonardo Pires",
+          "rating": 4,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1752617358
+        },
+        {
+          "author_name": "Ricardo Lopes",
+          "rating": 4,
+          "text": "Equipe muito prestativa e local bem organizado.",
+          "time": 1741817358
+        },
+        {
+          "author_name": "Ricardo Lopes",
+          "rating": 4,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1738274958
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_d6e87e8935ec42f713d84fd613e1e46d": {
+    "result": {
+      "place_id": "d6e87e8935ec42f713d84fd613e1e46d",
+      "name": "Banco Santander - Agencia Senador",
+      "formatted_address": "Av. Senador Teotonio Vilela, 1280 - Cidade Dutra, Sao Paulo - SP",
+      "rating": 4.3,
+      "user_ratings_total": 3,
+      "geometry": {
+        "location": {
+          "lat": -23.7097,
+          "lng": -46.6986
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Juliana Costa",
+          "rating": 5,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1728598158
+        },
+        {
+          "author_name": "Thiago Souza",
+          "rating": 4,
+          "text": "Fui bem atendido, recomendo.Meu CPF 405.849.488-51",
+          "time": 1727820558
+        },
+        {
+          "author_name": "Renata Lima",
+          "rating": 4,
+          "text": "Fui bem atendido, recomendo.",
+          "time": 1748210958
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_9e3b01a8aae73073b41d7bfed019af0b": {
+    "result": {
+      "place_id": "9e3b01a8aae73073b41d7bfed019af0b",
+      "name": "Banco Santander - Agencia de",
+      "formatted_address": "Estrada de Itapecerica, 1290 - Capao Redondo, Sao Paulo - SP",
+      "rating": 3.8,
+      "user_ratings_total": 5,
+      "geometry": {
+        "location": {
+          "lat": -23.645,
+          "lng": -46.7694
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Ricardo Lopes",
+          "rating": 5,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1750889358
+        },
+        {
+          "author_name": "Natalia Martins",
+          "rating": 4,
+          "text": "Atendimento excelente!Meu CPF 405.849.488-51",
+          "time": 1721426958
+        },
+        {
+          "author_name": "Paula Freitas",
+          "rating": 5,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1748556558
+        },
+        {
+          "author_name": "Felipe Gomes",
+          "rating": 1,
+          "text": "Sistema fora do ar e sem explicações.",
+          "time": 1720735758
+        },
+        {
+          "author_name": "Leonardo Pires",
+          "rating": 4,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1740780558
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_f661ef8449e826dbd9978b3e4df51dc8": {
+    "result": {
+      "place_id": "f661ef8449e826dbd9978b3e4df51dc8",
+      "name": "Banco Santander - Agencia Adolfo",
+      "formatted_address": "Av. Adolfo Pinheiro, 1300 - Santo Amaro, Sao Paulo - SP",
+      "rating": 3.2,
+      "user_ratings_total": 5,
+      "geometry": {
+        "location": {
+          "lat": -23.6505,
+          "lng": -46.7144
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Eduarda Ramos",
+          "rating": 3,
+          "text": "Atendentes despreparados e confusos.",
+          "time": 1727561358
+        },
+        {
+          "author_name": "Leonardo Pires",
+          "rating": 3,
+          "text": "Sistema fora do ar e sem explicações.",
+          "time": 1720649358
+        },
+        {
+          "author_name": "Renata Lima",
+          "rating": 3,
+          "text": "Fila enorme e pouca eficiência.Meu CPF 405.849.488-51",
+          "time": 1724882958
+        },
+        {
+          "author_name": "Paula Freitas",
+          "rating": 2,
+          "text": "Fila enorme e pouca eficiência.",
+          "time": 1739743758
+        },
+        {
+          "author_name": "Eduarda Ramos",
+          "rating": 5,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1740866958
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_44f1a3a6e2b625fd59395ccd9b7e78ae": {
+    "result": {
+      "place_id": "44f1a3a6e2b625fd59395ccd9b7e78ae",
+      "name": "Banco Santander - Agencia Maria",
+      "formatted_address": "Rua Maria Cândida, 1310 - Vila Guilherme, Sao Paulo - SP",
+      "rating": 2.6,
+      "user_ratings_total": 5,
+      "geometry": {
+        "location": {
+          "lat": -23.5111,
+          "lng": -46.6054
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Paula Freitas",
+          "rating": 2,
+          "text": "Sistema fora do ar e sem explicações.",
+          "time": 1745014158
+        },
+        {
+          "author_name": "Camila Azevedo",
+          "rating": 1,
+          "text": "Sistema fora do ar e sem explicações.Meu CPF 405.849.488-51",
+          "time": 1734300558
+        },
+        {
+          "author_name": "Renata Lima",
+          "rating": 3,
+          "text": "Péssimo atendimento, muita demora.",
+          "time": 1751407758
+        },
+        {
+          "author_name": "Leonardo Pires",
+          "rating": 4,
+          "text": "Equipe muito prestativa e local bem organizado.",
+          "time": 1731276558
+        },
+        {
+          "author_name": "Fernanda Dias",
+          "rating": 3,
+          "text": "Sistema fora do ar e sem explicações.",
+          "time": 1719439758
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_2f032572750f614dcd6d56d5cf32f1d6": {
+    "result": {
+      "place_id": "2f032572750f614dcd6d56d5cf32f1d6",
+      "name": "Banco Santander - Agencia Guilherme",
+      "formatted_address": "Av. Guilherme Cotching, 1320 - Vila Maria, Sao Paulo - SP",
+      "rating": 3.0,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.5028,
+          "lng": -46.5916
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Eduarda Ramos",
+          "rating": 4,
+          "text": "Ambiente limpo e confortável.Meu CPF 405.849.488-51",
+          "time": 1723154958
+        },
+        {
+          "author_name": "Paula Freitas",
+          "rating": 2,
+          "text": "Sistema fora do ar e sem explicações.",
+          "time": 1750802958
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_f3835ab10780feeba37cff9f1c71c363": {
+    "result": {
+      "place_id": "f3835ab10780feeba37cff9f1c71c363",
+      "name": "Banco Santander - Agencia Carlos",
+      "formatted_address": "Rua Carlos Weber, 1330 - Vila Leopoldina, Sao Paulo - SP",
+      "rating": 2.5,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.5285,
+          "lng": -46.7311
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Thiago Souza",
+          "rating": 4,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1735164558
+        },
+        {
+          "author_name": "Juliana Costa",
+          "rating": 1,
+          "text": "Não recomendo esta agência.Meu CPF 405.849.488-51",
+          "time": 1722895758
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_f29b65bfb59bb48ca942b651a241e558": {
+    "result": {
+      "place_id": "f29b65bfb59bb48ca942b651a241e558",
+      "name": "Banco Santander - Agencia Jaguaré",
+      "formatted_address": "Av. Jaguaré, 1340 - Jaguaré, Sao Paulo - SP",
+      "rating": 2.8,
+      "user_ratings_total": 4,
+      "geometry": {
+        "location": {
+          "lat": -23.5533,
+          "lng": -46.736
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Felipe Gomes",
+          "rating": 3,
+          "text": "Sistema fora do ar e sem explicações.",
+          "time": 1747001358
+        },
+        {
+          "author_name": "Marina Alves",
+          "rating": 2,
+          "text": "Sistema fora do ar e sem explicações.",
+          "time": 1741471758
+        },
+        {
+          "author_name": "Renata Lima",
+          "rating": 4,
+          "text": "Atendimento excelente!Meu CPF 405.849.488-51",
+          "time": 1725228558
+        },
+        {
+          "author_name": "Camila Azevedo",
+          "rating": 2,
+          "text": "Fila enorme e pouca eficiência.",
+          "time": 1731103758
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_2c1f24ea1c8374b0e5847fab327191ad": {
+    "result": {
+      "place_id": "2c1f24ea1c8374b0e5847fab327191ad",
+      "name": "Banco Santander - Agencia Nova",
+      "formatted_address": "Av. Nova Cantareira, 1350 - Tremembé, Sao Paulo - SP",
+      "rating": 3.0,
+      "user_ratings_total": 5,
+      "geometry": {
+        "location": {
+          "lat": -23.456,
+          "lng": -46.6245
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Juliana Costa",
+          "rating": 3,
+          "text": "Atendentes despreparados e confusos.",
+          "time": 1720044558
+        },
+        {
+          "author_name": "Natalia Martins",
+          "rating": 1,
+          "text": "Não recomendo esta agência.",
+          "time": 1743545358
+        },
+        {
+          "author_name": "Eduarda Ramos",
+          "rating": 4,
+          "text": "Equipe muito prestativa e local bem organizado.",
+          "time": 1729548558
+        },
+        {
+          "author_name": "Fernanda Dias",
+          "rating": 4,
+          "text": "Equipe muito prestativa e local bem organizado.Meu CPF 405.849.488-51",
+          "time": 1740434958
+        },
+        {
+          "author_name": "Marina Alves",
+          "rating": 3,
+          "text": "Não recomendo esta agência.",
+          "time": 1730671758
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_3412236281be6fedf2dbf0c248701be3": {
+    "result": {
+      "place_id": "3412236281be6fedf2dbf0c248701be3",
+      "name": "Banco Santander - Agencia Charles",
+      "formatted_address": "Rua Charles Spencer Chaplin, 1360 - Vila Andrade, Sao Paulo - SP",
+      "rating": 2.8,
+      "user_ratings_total": 4,
+      "geometry": {
+        "location": {
+          "lat": -23.6264,
+          "lng": -46.735
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Felipe Gomes",
+          "rating": 4,
+          "text": "Ambiente limpo e confortável.Meu CPF 405.849.488-51",
+          "time": 1740434958
+        },
+        {
+          "author_name": "Ricardo Lopes",
+          "rating": 2,
+          "text": "Sistema fora do ar e sem explicações.",
+          "time": 1728079758
+        },
+        {
+          "author_name": "Natalia Martins",
+          "rating": 2,
+          "text": "Atendentes despreparados e confusos.",
+          "time": 1732313358
+        },
+        {
+          "author_name": "Camila Azevedo",
+          "rating": 3,
+          "text": "Não recomendo esta agência.",
+          "time": 1724105358
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_cda0236e616c248b1cd64c2af989bda1": {
+    "result": {
+      "place_id": "cda0236e616c248b1cd64c2af989bda1",
+      "name": "Banco Santander - Agencia Nossa",
+      "formatted_address": "Av. Nossa Senhora do Sabara, 1370 - Pedreira, Sao Paulo - SP",
+      "rating": 4.0,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.6745,
+          "lng": -46.6782
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Felipe Gomes",
+          "rating": 4,
+          "text": "Serviço ágil e funcionários educados.Meu CPF 405.849.488-51",
+          "time": 1732054158
+        },
+        {
+          "author_name": "Leonardo Pires",
+          "rating": 4,
+          "text": "Atendimento excelente!",
+          "time": 1739225358
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_6a339e085c56a5c22c47459bbc89700c": {
+    "result": {
+      "place_id": "6a339e085c56a5c22c47459bbc89700c",
+      "name": "Banco Santander - Agencia Santos",
+      "formatted_address": "Alameda Santos, 1380 - Jardim Paulista, Sao Paulo - SP",
+      "rating": 4.0,
+      "user_ratings_total": 4,
+      "geometry": {
+        "location": {
+          "lat": -23.5692,
+          "lng": -46.6541
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Thiago Souza",
+          "rating": 3,
+          "text": "Péssimo atendimento, muita demora.",
+          "time": 1723759758
+        },
+        {
+          "author_name": "Natalia Martins",
+          "rating": 4,
+          "text": "Equipe muito prestativa e local bem organizado.",
+          "time": 1741817358
+        },
+        {
+          "author_name": "Camila Azevedo",
+          "rating": 4,
+          "text": "Fui bem atendido, recomendo.Meu CPF 405.849.488-51",
+          "time": 1720822158
+        },
+        {
+          "author_name": "Fernanda Dias",
+          "rating": 5,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1746396558
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_731d17cde72b6b0827e5a563543c5cb9": {
+    "result": {
+      "place_id": "731d17cde72b6b0827e5a563543c5cb9",
+      "name": "Banco Santander - Agencia do",
+      "formatted_address": "Estrada do Campo Limpo, 1390 - Campo Limpo, Sao Paulo - SP",
+      "rating": 3.0,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.6375,
+          "lng": -46.7571
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Renata Lima",
+          "rating": 4,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1739484558
+        },
+        {
+          "author_name": "Eduarda Ramos",
+          "rating": 2,
+          "text": "Péssimo atendimento, muita demora.Meu CPF 405.849.488-51",
+          "time": 1720822158
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_2494e2c99d36ceb6bfc73f6f70c15db9": {
+    "result": {
+      "place_id": "2494e2c99d36ceb6bfc73f6f70c15db9",
+      "name": "Banco Santander - Agencia Guarapiranga",
+      "formatted_address": "Av. Guarapiranga, 1400 - Jardim Sao Luis, Sao Paulo - SP",
+      "rating": 3.6,
+      "user_ratings_total": 5,
+      "geometry": {
+        "location": {
+          "lat": -23.6583,
+          "lng": -46.7355
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Marina Alves",
+          "rating": 5,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1722982158
+        },
+        {
+          "author_name": "Natalia Martins",
+          "rating": 5,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1745273358
+        },
+        {
+          "author_name": "Igor Carvalho",
+          "rating": 3,
+          "text": "Sistema fora do ar e sem explicações.",
+          "time": 1733004558
+        },
+        {
+          "author_name": "Igor Carvalho",
+          "rating": 2,
+          "text": "Atendentes despreparados e confusos.Meu CPF 405.849.488-51",
+          "time": 1738188558
+        },
+        {
+          "author_name": "Eduarda Ramos",
+          "rating": 3,
+          "text": "Fila enorme e pouca eficiência.",
+          "time": 1749506958
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_89cdc23be237e5129c1939e527e773e8": {
+    "result": {
+      "place_id": "89cdc23be237e5129c1939e527e773e8",
+      "name": "Banco Santander - Agencia Cupecê",
+      "formatted_address": "Av. Cupecê, 1410 - Cidade Ademar, Sao Paulo - SP",
+      "rating": 4.5,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.6708,
+          "lng": -46.6758
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Daniel Farias",
+          "rating": 4,
+          "text": "Ambiente limpo e confortável.Meu CPF 405.849.488-51",
+          "time": 1726783758
+        },
+        {
+          "author_name": "Camila Azevedo",
+          "rating": 5,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1740866958
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_3c9393887576819c95ebb8af28a0972f": {
+    "result": {
+      "place_id": "3c9393887576819c95ebb8af28a0972f",
+      "name": "Banco Santander - Agencia Sapopemba",
+      "formatted_address": "Av. Sapopemba, 1420 - Sapopemba, Sao Paulo - SP",
+      "rating": 3.5,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.5694,
+          "lng": -46.5062
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Marina Alves",
+          "rating": 4,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1747951758
+        },
+        {
+          "author_name": "Fernanda Dias",
+          "rating": 3,
+          "text": "Não recomendo esta agência.Meu CPF 405.849.488-51",
+          "time": 1749938958
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_2dd51bd815a0382d8c881fd9dea5b6c6": {
+    "result": {
+      "place_id": "2dd51bd815a0382d8c881fd9dea5b6c6",
+      "name": "Banco Santander - Agencia Aricanduva",
+      "formatted_address": "Av. Aricanduva, 1430 - Aricanduva, Sao Paulo - SP",
+      "rating": 4.0,
+      "user_ratings_total": 5,
+      "geometry": {
+        "location": {
+          "lat": -23.553,
+          "lng": -46.5232
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Renata Lima",
+          "rating": 5,
+          "text": "Atendimento excelente!",
+          "time": 1719526158
+        },
+        {
+          "author_name": "Renata Lima",
+          "rating": 4,
+          "text": "Fui bem atendido, recomendo.",
+          "time": 1730671758
+        },
+        {
+          "author_name": "Thiago Souza",
+          "rating": 2,
+          "text": "Atendentes despreparados e confusos.Meu CPF 405.849.488-51",
+          "time": 1732745358
+        },
+        {
+          "author_name": "Ricardo Lopes",
+          "rating": 4,
+          "text": "Equipe muito prestativa e local bem organizado.",
+          "time": 1723932558
+        },
+        {
+          "author_name": "Juliana Costa",
+          "rating": 5,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1729807758
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_693b7a8f64cb8d55679b3d96231e972d": {
+    "result": {
+      "place_id": "693b7a8f64cb8d55679b3d96231e972d",
+      "name": "Banco Santander - Agencia Ragueb",
+      "formatted_address": "Av. Ragueb Chohfi, 1440 - São Mateus, Sao Paulo - SP",
+      "rating": 4.5,
+      "user_ratings_total": 4,
+      "geometry": {
+        "location": {
+          "lat": -23.5867,
+          "lng": -46.4564
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Fernanda Dias",
+          "rating": 4,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1731967758
+        },
+        {
+          "author_name": "Natalia Martins",
+          "rating": 5,
+          "text": "Ambiente limpo e confortável.Meu CPF 405.849.488-51",
+          "time": 1732226958
+        },
+        {
+          "author_name": "Juliana Costa",
+          "rating": 5,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1749593358
+        },
+        {
+          "author_name": "Bruno Rocha",
+          "rating": 4,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1748729358
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_bd62838dc4d6be47f3bede130df3932c": {
+    "result": {
+      "place_id": "bd62838dc4d6be47f3bede130df3932c",
+      "name": "Banco Santander - Agencia Águia",
+      "formatted_address": "Av. Águia de Haia, 1450 - Artur Alvim, Sao Paulo - SP",
+      "rating": 3.4,
+      "user_ratings_total": 5,
+      "geometry": {
+        "location": {
+          "lat": -23.5368,
+          "lng": -46.473
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Ricardo Lopes",
+          "rating": 4,
+          "text": "Fui bem atendido, recomendo.Meu CPF 405.849.488-51",
+          "time": 1733177358
+        },
+        {
+          "author_name": "Renata Lima",
+          "rating": 4,
+          "text": "Atendimento excelente!",
+          "time": 1732745358
+        },
+        {
+          "author_name": "Bruno Rocha",
+          "rating": 4,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1749161358
+        },
+        {
+          "author_name": "Leonardo Pires",
+          "rating": 4,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1720476558
+        },
+        {
+          "author_name": "Daniel Farias",
+          "rating": 1,
+          "text": "Sistema fora do ar e sem explicações.",
+          "time": 1729980558
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_175c78d0df8c481dde5796239535e71c": {
+    "result": {
+      "place_id": "175c78d0df8c481dde5796239535e71c",
+      "name": "Banco Santander - Agencia João",
+      "formatted_address": "Av. João XXIII, 1460 - Vila Formosa, Sao Paulo - SP",
+      "rating": 3.5,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.5592,
+          "lng": -46.5671
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Marina Alves",
+          "rating": 4,
+          "text": "Equipe muito prestativa e local bem organizado.",
+          "time": 1722982158
+        },
+        {
+          "author_name": "Paula Freitas",
+          "rating": 3,
+          "text": "Sistema fora do ar e sem explicações.Meu CPF 405.849.488-51",
+          "time": 1721686158
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_232e1ce7553a9a02fd7b0530d363f411": {
+    "result": {
+      "place_id": "232e1ce7553a9a02fd7b0530d363f411",
+      "name": "Banco Santander - Agencia Evangelina",
+      "formatted_address": "Rua Evangelina, 1470 - Vila Carrão, Sao Paulo - SP",
+      "rating": 1.5,
+      "user_ratings_total": 2,
+      "geometry": {
+        "location": {
+          "lat": -23.5445,
+          "lng": -46.5504
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Juliana Costa",
+          "rating": 1,
+          "text": "Não recomendo esta agência.Meu CPF 405.849.488-51",
+          "time": 1734127758
+        },
+        {
+          "author_name": "Fernanda Dias",
+          "rating": 2,
+          "text": "Atendentes despreparados e confusos.",
+          "time": 1728079758
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_48583e52533c8986545c334b466afdca": {
+    "result": {
+      "place_id": "48583e52533c8986545c334b466afdca",
+      "name": "Banco Santander - Agencia Salvador",
+      "formatted_address": "Rua Salvador Gianetti, 1480 - Guaianases, Sao Paulo - SP",
+      "rating": 3.0,
+      "user_ratings_total": 5,
+      "geometry": {
+        "location": {
+          "lat": -23.5548,
+          "lng": -46.4173
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Daniel Farias",
+          "rating": 5,
+          "text": "Serviço ágil e funcionários educados.",
+          "time": 1739743758
+        },
+        {
+          "author_name": "Ricardo Lopes",
+          "rating": 1,
+          "text": "Atendentes despreparados e confusos.",
+          "time": 1729116558
+        },
+        {
+          "author_name": "Paula Freitas",
+          "rating": 2,
+          "text": "Sistema fora do ar e sem explicações.Meu CPF 405.849.488-51",
+          "time": 1751407758
+        },
+        {
+          "author_name": "Eduarda Ramos",
+          "rating": 5,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1728079758
+        },
+        {
+          "author_name": "Thiago Souza",
+          "rating": 2,
+          "text": "Não recomendo esta agência.",
+          "time": 1750975758
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "place_details_3dfbe48ac86449c4e6bcb450d5c499d1": {
+    "result": {
+      "place_id": "3dfbe48ac86449c4e6bcb450d5c499d1",
+      "name": "Banco Santander - Agencia Itaquera",
+      "formatted_address": "Av. Itaquera, 1490 - Itaquera, Sao Paulo - SP",
+      "rating": 4.0,
+      "user_ratings_total": 4,
+      "geometry": {
+        "location": {
+          "lat": -23.5446,
+          "lng": -46.4634
+        }
+      },
+      "types": [
+        "bank",
+        "establishment"
+      ],
+      "reviews": [
+        {
+          "author_name": "Bruno Rocha",
+          "rating": 1,
+          "text": "Péssimo atendimento, muita demora.Meu CPF 405.849.488-51",
+          "time": 1721340558
+        },
+        {
+          "author_name": "Thiago Souza",
+          "rating": 5,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1742249358
+        },
+        {
+          "author_name": "Juliana Costa",
+          "rating": 5,
+          "text": "Fui bem atendido, recomendo.",
+          "time": 1725919758
+        },
+        {
+          "author_name": "Igor Carvalho",
+          "rating": 5,
+          "text": "Ambiente limpo e confortável.",
+          "time": 1750370958
+        }
+      ]
+    },
+    "status": "OK"
+  }
+}

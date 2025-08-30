@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<configuration>
+    <property>
+        <name>hive.metastore.uris</name>
+        <value>thrift://hive-metastore:9083</value>
+    </property>
+    
+    <property>
+        <name>hive.metastore.warehouse.dir</name>
+        <value>s3a://datalake/warehouse</value>
+    </property>
+    
+    <property>
+        <name>hive.exec.dynamic.partition</name>
+        <value>true</value>
+    </property>
+    
+    <property>
+        <name>hive.exec.dynamic.partition.mode</name>
+        <value>nonstrict</value>
+    </property>
+    
+    <property>
+        <name>hive.support.concurrency</name>
+        <value>true</value>
+    </property>
+    
+    <property>
+        <name>hive.enforce.bucketing</name>
+        <value>true</value>
+    </property>
+    
+    <property>
+        <name>hive.exec.compress.output</name>
+        <value>true</value>
+    </property>
+    
+    <property>
+        <name>hive.merge.mapfiles</name>
+        <value>true</value>
+    </property>
+    
+    <property>
+        <name>hive.merge.mapredfiles</name>
+        <value>true</value>
+    </property>
+</configuration>

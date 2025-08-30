@@ -1,0 +1,7 @@
+pyspark==3.4.0
+delta-spark==2.4.0
+boto3==1.26.137
+minio==7.1.15
+pandas==2.0.2
+numpy==1.24.3
+pyarrow==12.0.1

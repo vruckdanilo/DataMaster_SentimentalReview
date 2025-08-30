@@ -1,0 +1,111 @@
+# ============================================================================================
+# DATAMASTER SENTIMENTALREVIEW - GITIGNORE
+# ============================================================================================
+
+# 🔐 ARQUIVOS SENSÍVEIS
+# ============================================================================================
+.env
+.env.local
+.env.production
+.env.staging
+*.key
+*.pem
+*.p12
+*.pfx
+
+# 🐳 DOCKER E VOLUMES - DADOS GRANDES
+# ============================================================================================
+mnt/airflow/logs/*
+!mnt/airflow/logs/.gitkeep
+mnt/hive/warehouse/*
+!mnt/hive/warehouse/.gitkeep
+mnt/kafka/data/*
+!mnt/kafka/data/.gitkeep
+mnt/minio/data/*
+!mnt/minio/data/.gitkeep
+mnt/postgres/data/*
+!mnt/postgres/data/.gitkeep
+mnt/spark/work/*
+!mnt/spark/work/.gitkeep
+mnt/superset/.local/*
+!mnt/superset/.local/.gitkeep
+
+# 🗄️ BANCOS DE DADOS E LOGS GRANDES
+# ============================================================================================
+mnt/postgres/*
+!mnt/postgres/.gitkeep
+mnt/mysql/*
+!mnt/mysql/.gitkeep
+mnt/zookeeper/logs/*
+!mnt/zookeeper/logs/.gitkeep
+mnt/zookeeper/data/*
+!mnt/zookeeper/data/.gitkeep
+*.db
+*.sqlite
+*.sqlite3
+ibdata*
+ib_logfile*
+
+# 📊 DADOS E CACHE
+# ============================================================================================
+*.parquet
+*.delta
+*.log
+*.tmp
+*.cache
+data/
+raw_data/
+processed_data/
+checkpoints/
+
+# 🐍 PYTHON
+# ============================================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 💻 IDEs E EDITORES
+# ============================================================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# 📝 LOGS E TEMPORÁRIOS
+# ============================================================================================
+*.log
+*.out
+*.err
+nohup.out
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 🔄 SISTEMA
+# ============================================================================================
+.git/
+node_modules/
+*.pid

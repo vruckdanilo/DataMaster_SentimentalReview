@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<configuration>
+  <!-- URL de conexão ao MySQL -->
+  <property>
+    <name>javax.jdo.option.ConnectionURL</name>
+    <value>jdbc:mysql://mysql:3306/metastore_db?useSSL=false&amp;allowPublicKeyRetrieval=true</value>
+    <description>JDBC connect string para o metastore MySQL</description>
+  </property>
+
+  <!-- Driver JDBC do MySQL -->
+  <property>
+    <name>javax.jdo.option.ConnectionDriverName</name>
+    <value>com.mysql.cj.jdbc.Driver</value>
+    <description>Classe de driver JDBC</description>
+  </property>
+
+  <!-- Credenciais de acesso -->
+  <property>
+    <name>javax.jdo.option.ConnectionUserName</name>
+    <value>admin</value>
+    <description>Usuário do metastore</description>
+  </property>
+  
+  <property>
+    <name>javax.jdo.option.ConnectionPassword</name>
+    <value>admin</value>
+    <description>Senha do metastore</description>
+  </property>
+
+  <!-- Configurações adicionais para estabilidade -->
+  <property>
+    <name>hive.metastore.warehouse.dir</name>
+    <value>s3a://datalake/warehouse</value>
+    <description>Diretório do warehouse no S3</description>
+  </property>
+
+  <property>
+    <name>hive.metastore.uris</name>
+    <value>thrift://hive-metastore:9083</value>
+    <description>URI do Hive Metastore</description>
+  </property>
+
+  <!-- Configurações para compatibilidade -->
+  <property>
+    <name>hive.execution.engine</name>
+    <value>mr</value>
+    <description>Usar MapReduce em vez de Tez</description>
+  </property>
+
+  <property>
+    <name>hive.metastore.schema.verification</name>
+    <value>false</value>
+    <description>Desabilitar verificação de schema para evitar conflitos</description>
+  </property>
+
+  <property>
+    <name>datanucleus.autoCreateSchema</name>
+    <value>true</value>
+    <description>Criar schema automaticamente se não existir</description>
+  </property>
+
+  <property>
+    <name>datanucleus.fixedDatastore</name>
+    <value>false</value>
+    <description>Permitir modificações no datastore</description>
+  </property>
+</configuration>
