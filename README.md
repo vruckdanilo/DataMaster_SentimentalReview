@@ -14,16 +14,33 @@ Eu criei este projeto para demonstrar expertise em engenharia de dados moderna, 
 
 ---
 
-## 📋 Índice
+## 📋 Índice do README.md
 
 - [🚀 Demonstração Rápida](#-demonstração-rápida)
 - [🏗️ Arquitetura](#️-arquitetura)
 - [📁 Mapa do Repositório](#-mapa-do-repositório)
 - [⚡ Como Rodar Localmente](#-como-rodar-localmente)
-- [🎯 Por que isto demonstra expertise?](#-Resultados-Observáveis)
+- [🧪 Resultados Observáveis](#-Resultados-Observáveis)
 - [📚 Documentação Detalhada](#-documentação-detalhada)
 - [🔧 Troubleshooting](#-troubleshooting)
 - [🛣️ Roadmap](#️-roadmap)
+
+---
+
+
+
+## 📚 Toda Documentação Detalhada
+
+| Documento | Foco | Audiência |
+|-----------|------|-----------|
+| [🏗️ Arquitetura](docs/arquitetura.md) | Design técnico, trade-offs, diagramas | Arquitetos, Engenheiros |
+| [💻 Instalação Local](docs/instalacao_local_zero_custo.md) | Setup passo-a-passo, troubleshooting | Desenvolvedores, DevOps |
+| [🔄 Pipeline & DAGs](docs/pipeline_e_dags.md) | Fluxo de dados, orquestração | Engenheiros de Dados |
+| [🧠 Análise de Sentimentos](docs/analise_sentimentos.md) | NLP, modelos, custos | Data Scientists |
+| [📊 Esquemas e Dados](docs/esquemas_e_dados.md) | Modelagem, qualidade, validações | Engenheiros de Dados |
+| [⚖️ Governança e LGPD](docs/governanca_e_lgpd.md) | Compliance, privacidade, auditoria | Legal, Compliance |
+| [📈 App Visualização](docs/app_visualizacao.md) | Dashboards, métricas, UX | Analistas, Gestores |
+| [❓ FAQ & Troubleshooting](docs/faq_troubleshooting.md) | Perguntas frequentes e soluções | Todos |
 
 ---
 
@@ -74,54 +91,9 @@ cp .env.example .env
 
 </div>
 
-### Diagrama Geral (Mermaid)
-```mermaid
-graph TB
-    subgraph "Fontes de Dados"
-        GM[Google Maps API Mock]
-        KF[Apache Kafka]
-    end
-    
-    subgraph "Data Lakehouse (Arquitetura Medalhão)"
-        L[Landing Zone<br/>JSON Raw]
-        B[Bronze Layer<br/>Delta Tables]
-        S[Silver Layer<br/>Enriquecido + NLP]
-        G[Gold Layer<br/>Agregações]
-    end
-    
-    subgraph "Processamento"
-        AF[Apache Airflow<br/>Orquestração]
-        SP[Apache Spark<br/>Distribuído]
-        TR[Apache Trino<br/>Query Engine]
-    end
-    
-    subgraph "Armazenamento"
-        MN[MinIO S3<br/>Object Storage]
-        MS[MySQL<br/>Hive Metastore]
-        PG[PostgreSQL<br/>Airflow Meta]
-    end
-    
-    subgraph "Visualização"
-        SS[Apache Superset<br/>BI & Dashboards]
-    end
-    
-    GM --> KF
-    KF --> AF
-    AF --> SP
-    SP --> L
-    L --> B
-    B --> S
-    S --> G
-    MN --> TR
-    TR --> SS
-    
-    style L fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#bbf,stroke:#333,stroke-width:2px
-    style S fill:#bfb,stroke:#333,stroke-width:2px
-    style G fill:#ffb,stroke:#333,stroke-width:2px
-```
 
-### Diagrama ASCII (Fallback)
+
+### Diagrama ASCII
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   Google Maps   │───▶│  Apache Kafka   │───▶│ Apache Airflow  │
@@ -174,7 +146,7 @@ graph TB
 
 ### Instalação Automática
 
-![Automation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW04Y3lodHJzdmVoeWdoZjd0c3VreGJvdmlmeGNteG00Yzhnb3JhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lxryzbQaqo49cKhCw/giphy.gif)
+![Automation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW04Y3lodHJzdmVoeWdoZjd0c3VkeGJvdmlmeGNteG00Yzhnb3JhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lxryzbQaqo49cKhCw/giphy.gif)
 
 ```bash
 # Clone o repositório
@@ -257,7 +229,9 @@ curl http://localhost:9000/minio/health/live  # MinIO
 
 ### 🏆 Diferenciais Técnicos
 
-![Achievement Unlocked](https://media.giphy.com/media/3o6fJ1BM7R2EBRDnxK/giphy.gif)
+![Achievement Unlocked](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhiYnpnbHd5bnlnbmU2Z2loNmh4eW82ZWh3bDlwdmNqdWR6NnJtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OJac5MRF6xJpqQAcR5/giphy.gif)
+
+
 
 1. **Zero Custo:** Emula AWS/GCP/Azure inteiramente local
 2. **Produção-Ready:** Configurações enterprise com fallbacks
@@ -265,17 +239,6 @@ curl http://localhost:9000/minio/health/live  # MinIO
 4. **Escalável:** Arquitetura preparada para cloud migration
 5. **Completo:** Pipeline end-to-end funcional com dados reais
 
----
-
-## 📚 Documentação Detalhada
-
-| Documento | Foco | Audiência |
-|-----------|------|-----------|
-| [🏗️ Arquitetura](docs/arquitetura.md) | Design técnico, trade-offs, diagramas | Arquitetos, Engenheiros |
-| [💻 Instalação Local](docs/instalacao_local_zero_custo.md) | Setup passo-a-passo, troubleshooting | Desenvolvedores, DevOps |
-| [🔄 Pipeline & DAGs](docs/pipeline_e_dags.md) | Fluxo de dados, orquestração | Engenheiros de Dados |
-| [🧠 Análise de Sentimentos](docs/analise_sentimentos.md) | NLP, modelos, custos | Data Scientists |
-| [❓ FAQ & Troubleshooting](docs/faq_troubleshooting.md) | Perguntas frequentes e soluções | Todos |
 
 ---
 
@@ -338,7 +301,7 @@ SPARK_EXECUTOR_MEMORY=256m
 
 <div align="center">
 
-![Future Vision](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5zZDVnM3lqZzEzd2F3eTRxcDZyMTQzeDM0Yjk4b3U0YmJ1bG5uYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rBA9YKPPA4v7DXPdvg/giphy.gif)
+![Future Vision](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM0cXFycTgwOWRpc25laWp2ZmlkOHdxOTg3MDczZnM3d3BqNXc1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OJac5MRF6xJpqQAcR5/giphy.gif)
 
 *Visão de Futuro do Projeto*
 
