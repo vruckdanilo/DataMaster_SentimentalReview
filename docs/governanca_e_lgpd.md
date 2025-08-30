@@ -409,4 +409,3 @@ Implementei uma estratégia de "Privacy by Design" que demonstra compreensão pr
 
 ---
 
-*Governança e LGPD documentadas por [Danilo Vruck](mailto:danilo.vruck@email.com)*

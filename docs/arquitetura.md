@@ -509,8 +509,6 @@ hive.s3.ssl.enabled=false
 
 ## 📡 Streaming e Ingestão
 
-![Data Streaming](https://media.giphy.com/media/l0HlR2eV8koAztu2Q/giphy.gif)
-
 ### Apache Kafka
 
 **Configuração:**
@@ -680,4 +678,3 @@ Esta arquitetura combina conceitos avançados de engenharia de dados:
 
 ---
 
-*Documentação técnica por [Danilo Vruck](mailto:danilo.vruck@email.com)*

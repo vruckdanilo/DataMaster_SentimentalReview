@@ -397,4 +397,3 @@ def verificar_anomalias():
 
 ---
 
-*Pipeline documentado por [Danilo Vruck](mailto:danilo.vruck@email.com)*
