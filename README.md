@@ -14,7 +14,7 @@ Eu criei este projeto para demonstrar expertise em engenharia de dados moderna, 
 
 ---
 
-## 📋 Índice
+## 📋 Índice do README.md
 
 - [🚀 Demonstração Rápida](#-demonstração-rápida)
 - [🏗️ Arquitetura](#️-arquitetura)
@@ -24,6 +24,20 @@ Eu criei este projeto para demonstrar expertise em engenharia de dados moderna, 
 - [📚 Documentação Detalhada](#-documentação-detalhada)
 - [🔧 Troubleshooting](#-troubleshooting)
 - [🛣️ Roadmap](#️-roadmap)
+
+---
+
+
+
+## 📚 Toda Documentação Detalhada
+
+| Documento | Foco | Audiência |
+|-----------|------|-----------|
+| [🏗️ Arquitetura](docs/arquitetura.md) | Design técnico, trade-offs, diagramas | Arquitetos, Engenheiros |
+| [💻 Instalação Local](docs/instalacao_local_zero_custo.md) | Setup passo-a-passo, troubleshooting | Desenvolvedores, DevOps |
+| [🔄 Pipeline & DAGs](docs/pipeline_e_dags.md) | Fluxo de dados, orquestração | Engenheiros de Dados |
+| [🧠 Análise de Sentimentos](docs/analise_sentimentos.md) | NLP, modelos, custos | Data Scientists |
+| [❓ FAQ & Troubleshooting](docs/faq_troubleshooting.md) | Perguntas frequentes e soluções | Todos |
 
 ---
 
@@ -220,17 +234,6 @@ curl http://localhost:9000/minio/health/live  # MinIO
 4. **Escalável:** Arquitetura preparada para cloud migration
 5. **Completo:** Pipeline end-to-end funcional com dados reais
 
----
-
-## 📚 Documentação Detalhada
-
-| Documento | Foco | Audiência |
-|-----------|------|-----------|
-| [🏗️ Arquitetura](docs/arquitetura.md) | Design técnico, trade-offs, diagramas | Arquitetos, Engenheiros |
-| [💻 Instalação Local](docs/instalacao_local_zero_custo.md) | Setup passo-a-passo, troubleshooting | Desenvolvedores, DevOps |
-| [🔄 Pipeline & DAGs](docs/pipeline_e_dags.md) | Fluxo de dados, orquestração | Engenheiros de Dados |
-| [🧠 Análise de Sentimentos](docs/analise_sentimentos.md) | NLP, modelos, custos | Data Scientists |
-| [❓ FAQ & Troubleshooting](docs/faq_troubleshooting.md) | Perguntas frequentes e soluções | Todos |
 
 ---
 
