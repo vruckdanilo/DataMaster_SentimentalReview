@@ -313,6 +313,9 @@ SPARK_EXECUTOR_MEMORY=256m
 2. **Misturar credenciais:** MinIO Console usa `minioadmin/minioadmin123`, mas API interna usa `minio/minio123`
 3. **Esquecer volumes:** Dados perdidos ao recriar containers sem volumes
 4. **Portas conflitantes:** Airflow na 8089, não 8080 (conflito com Trino)
+5. **CUIDADO COM API OFICIAL DO GOOGLE MAPS:** GASTEI UMA NOTA na primeira versao com API oficial do Google Maps 
+
+![CUIDADO COM API OFICIAL DO GOOGLE MAPS](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2c2cTZxcWk0bWgwYXV0cWJkbHhreWR3dnRha2lsdDRhdnhsam9paCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8F0Lgqv4Se7Riio94W/giphy.gif)
 
 ---
 
