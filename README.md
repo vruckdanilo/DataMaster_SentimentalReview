@@ -37,12 +37,9 @@ Eu criei este projeto para demonstrar expertise em engenharia de dados moderna, 
 | [💻 Instalação Local](docs/instalacao_local_zero_custo.md) | Setup passo-a-passo, troubleshooting | Desenvolvedores, DevOps |
 | [🔄 Pipeline & DAGs](docs/pipeline_e_dags.md) | Fluxo de dados, orquestração | Engenheiros de Dados |
 | [🧠 Análise de Sentimentos](docs/analise_sentimentos.md) | NLP, modelos, custos | Data Scientists |
-<<<<<<< HEAD
 | [📊 Esquemas e Dados](docs/esquemas_e_dados.md) | Modelagem, qualidade, validações | Engenheiros de Dados |
 | [⚖️ Governança e LGPD](docs/governanca_e_lgpd.md) | Compliance, privacidade, auditoria | Legal, Compliance |
 | [📈 App Visualização](docs/app_visualizacao.md) | Dashboards, métricas, UX | Analistas, Gestores |
-=======
->>>>>>> a0c12bfd9ad737151314e60c90b4cf193659fa69
 | [❓ FAQ & Troubleshooting](docs/faq_troubleshooting.md) | Perguntas frequentes e soluções | Todos |
 
 ---
