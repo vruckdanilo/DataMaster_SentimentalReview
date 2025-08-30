@@ -20,7 +20,7 @@ Eu criei este projeto para demonstrar expertise em engenharia de dados moderna, 
 - [🏗️ Arquitetura](#️-arquitetura)
 - [📁 Mapa do Repositório](#-mapa-do-repositório)
 - [⚡ Como Rodar Localmente](#-como-rodar-localmente)
-- [🎯 Por que isto demonstra expertise?](#-Resultados-Observáveis)
+- [📖 Diário de Bordo](#-Resultados-Observáveis)
 - [📚 Documentação Detalhada](#-documentação-detalhada)
 - [🔧 Troubleshooting](#-troubleshooting)
 - [🛣️ Roadmap](#️-roadmap)
@@ -90,7 +90,7 @@ cp .env.example .env
 
 
 
-### Diagrama ASCII (Fallback)
+### Diagrama ASCII
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   Google Maps   │───▶│  Apache Kafka   │───▶│ Apache Airflow  │
