@@ -222,10 +222,29 @@ curl http://localhost:9000/minio/health/live  # MinIO
 - [x] **Configuração via .env** para diferentes ambientes
 
 **Análise Avançada:**
-- [x] **NLP em português brasileiro** (Hugging Face + Presidio)
+- [x] **NLP em português brasileiro** 
 - [x] **Detecção de PII** com anonimização automática
 - [x] **Análise de risco reputacional** baseada em keywords
 - [x] **Dashboards interativos** com Apache Superset
+
+## 🚀 Serviços do Projeto
+
+| Serviço              | Função Principal                                    |
+|----------------------|-----------------------------------------------------|
+| **MinIO**            | Armazenamento de objetos compatível com S3          |
+| **MySQL**            | Banco de dados para Hive Metastore                  |
+| **PostgreSQL**       | Banco de dados para Apache Airflow                  |
+| **Airflow Webserver**| Interface web do Apache Airflow                     |
+| **Airflow Scheduler**| Orquestração e execução de DAGs do Airflow          |
+| **Zookeeper**        | Coordenação do cluster Kafka                        |
+| **Kafka**            | Streaming e mensageria distribuída                  |
+| **Hive Metastore**   | Metastore para tabelas do ecossistema Hadoop/Spark  |
+| **Spark Master**     | Nó master do cluster Apache Spark                   |
+| **Spark Worker**     | Nó worker do cluster Apache Spark                   |
+| **Trino**            | Consulta SQL distribuída em dados heterogêneos      |
+| **Superset**         | Visualização e dashboards de dados                  |
+| **Google Maps Mock** | Mock API JSON para testes de integração             |
+
 
 ### 🏆 Diferenciais Técnicos
 
